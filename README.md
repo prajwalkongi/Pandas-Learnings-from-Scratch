@@ -1,6 +1,10 @@
-# Pandas-1-Intro-to-Series-and-Dataframe-
+# Pandas Learnings:
 
 Hello!
-This jupiter contains basic Pandas functions.
-The 1st notebook is intro to series and dataframe.
+These jupiter notebooks contains Pandas functions.
+These notebook contains:
+  - Indexing, Slicing & Dicing, Sorting
+  - Window Function, Grouping in pandas
+  - Joining, Concatenations
+  - Handling missing data
 Do check it out!
