@@ -8,5 +8,6 @@ These notebook contains:
   - Window Function, Grouping in pandas
   - Joining, Concatenations
   - Handling missing data
+  - And so on
 
 Do check it out!
